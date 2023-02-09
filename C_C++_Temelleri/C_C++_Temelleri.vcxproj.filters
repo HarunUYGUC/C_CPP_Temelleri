@@ -27,5 +27,8 @@
     <ClCompile Include="degiskenlerr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="degiskenler.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
