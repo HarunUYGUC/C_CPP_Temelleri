@@ -16,6 +16,9 @@
     <Filter Include="Source Files\Programlamaya Giriş">
       <UniqueIdentifier>{85eb0d37-85ba-4a72-9283-98caae0642a3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Koşullu İfadeler">
+      <UniqueIdentifier>{30b5d9a9-1908-4ea5-a94d-6afa7566ce8d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="c-cpp-program.cpp">
@@ -44,6 +47,9 @@
     </ClCompile>
     <ClCompile Include="ilk-c-program.c">
       <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="deneme.c">
+      <Filter>Source Files\Koşullu İfadeler</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

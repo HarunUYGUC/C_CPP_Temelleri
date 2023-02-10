@@ -134,6 +134,7 @@
     <ClCompile Include="degiskenler-3.cpp" />
     <ClCompile Include="degiskenler.c" />
     <ClCompile Include="degiskenlerr.cpp" />
+    <ClCompile Include="deneme.c" />
     <ClCompile Include="ilk-c-program.c" />
     <ClCompile Include="ilk-cpp-program.cpp" />
   </ItemGroup>
