@@ -36,5 +36,8 @@
     <ClCompile Include="degiskenler-2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="degiskenler-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
