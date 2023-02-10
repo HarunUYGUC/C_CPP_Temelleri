@@ -13,34 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Programlamaya Giriş">
+      <UniqueIdentifier>{85eb0d37-85ba-4a72-9283-98caae0642a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="c-cpp-program.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ilk-c-program.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ilk-cpp-program.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="degiskenlerr.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
     <ClCompile Include="degiskenler.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="degiskenler-2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
     <ClCompile Include="degiskenler-2.c">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
-    <ClCompile Include="degiskenler-3.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="degiskenler-2.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
     <ClCompile Include="degiskenler-3.c">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="degiskenler-3.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="degiskenlerr.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="ilk-cpp-program.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="ilk-c-program.c">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
