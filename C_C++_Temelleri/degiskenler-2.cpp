@@ -46,6 +46,7 @@ int main()
 }
 */
 
+/*
 #include <iostream>
 using namespace std;
 
@@ -55,3 +56,4 @@ int main()
 	string metin = "Harun Uyguç";
 	cout << metin;
 }
+*/
