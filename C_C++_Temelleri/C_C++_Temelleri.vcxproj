@@ -127,16 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="c-cpp-program.cpp" />
-    <ClCompile Include="degiskenler-2.c" />
-    <ClCompile Include="degiskenler-2.cpp" />
-    <ClCompile Include="degiskenler-3.c" />
-    <ClCompile Include="degiskenler-3.cpp" />
-    <ClCompile Include="degiskenler.c" />
-    <ClCompile Include="degiskenlerr.cpp" />
-    <ClCompile Include="deneme.c" />
-    <ClCompile Include="ilk-c-program.c" />
-    <ClCompile Include="ilk-cpp-program.cpp" />
+    <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp" />
+    <ClCompile Include="Programlamaya Giriş\degiskenler-2.c" />
+    <ClCompile Include="Programlamaya Giriş\degiskenler-2.cpp" />
+    <ClCompile Include="Programlamaya Giriş\degiskenler-3.c" />
+    <ClCompile Include="Programlamaya Giriş\degiskenler-3.cpp" />
+    <ClCompile Include="Programlamaya Giriş\degiskenler.c" />
+    <ClCompile Include="Programlamaya Giriş\degiskenlerr.cpp" />
+    <ClCompile Include="Koşul İfadeleri\deneme.c" />
+    <ClCompile Include="Programlamaya Giriş\ilk-c-program.c" />
+    <ClCompile Include="Programlamaya Giriş\ilk-cpp-program.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

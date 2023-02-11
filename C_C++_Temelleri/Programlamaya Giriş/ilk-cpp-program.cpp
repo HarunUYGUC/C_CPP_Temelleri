@@ -10,8 +10,8 @@ int main() {
 #include <iostream>
 using namespace std;
 
-main()
- {
+int main()
+{
     cout << "Merhaba C ve C++.";
 }
 */
