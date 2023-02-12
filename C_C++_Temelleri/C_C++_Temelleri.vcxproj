@@ -140,6 +140,7 @@
     <ClCompile Include="Programlamaya Giriş\ilk-c-program.c" />
     <ClCompile Include="Programlamaya Giriş\ilk-cpp-program.cpp" />
     <ClCompile Include="Programlamaya Giriş\sabitler.cpp" />
+    <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
