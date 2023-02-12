@@ -51,5 +51,8 @@
     <ClCompile Include="Koşul İfadeleri\deneme.c">
       <Filter>Source Files\Koşullu İfadeler</Filter>
     </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\c-veri-girisi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
