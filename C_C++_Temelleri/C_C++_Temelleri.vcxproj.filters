@@ -54,5 +54,8 @@
     <ClCompile Include="Programlamaya Giriş\c-veri-girisi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\cpp-veri-girisi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

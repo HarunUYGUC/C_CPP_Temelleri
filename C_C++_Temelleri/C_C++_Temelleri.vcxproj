@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp" />
     <ClCompile Include="Programlamaya Giriş\c-veri-girisi.c" />
+    <ClCompile Include="Programlamaya Giriş\cpp-veri-girisi.cpp" />
     <ClCompile Include="Programlamaya Giriş\degiskenler-2.c" />
     <ClCompile Include="Programlamaya Giriş\degiskenler-2.cpp" />
     <ClCompile Include="Programlamaya Giriş\degiskenler-3.c" />
