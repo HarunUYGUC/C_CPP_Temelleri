@@ -140,6 +140,8 @@
     <ClCompile Include="Programlamaya Giriş\ilk-c-program.c" />
     <ClCompile Include="Programlamaya Giriş\ilk-cpp-program.cpp" />
     <ClCompile Include="Programlamaya Giriş\operatorler.cpp" />
+    <ClCompile Include="Programlamaya Giriş\ornek.c" />
+    <ClCompile Include="Programlamaya Giriş\ornek.cpp" />
     <ClCompile Include="Programlamaya Giriş\sabitler.cpp" />
     <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp" />
   </ItemGroup>
