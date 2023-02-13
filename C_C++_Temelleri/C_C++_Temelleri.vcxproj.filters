@@ -63,5 +63,8 @@
     <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\operatorler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
