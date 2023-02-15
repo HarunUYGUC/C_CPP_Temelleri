@@ -25,11 +25,10 @@ int main()
 #include <iostream>
 #include <math.h>
 using namespace std;
-#define PI 3.14;
+#define PI 3.14
 
 int main()
 {
-	setlocale(LC_ALL, "Turkish");
 	float r, alan;
 
 	cout << "Çemberin yarýçapýný giriniz: ";

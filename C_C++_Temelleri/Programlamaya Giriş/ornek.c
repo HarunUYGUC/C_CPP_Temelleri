@@ -23,19 +23,17 @@ int main()
 
 /*
 #include <stdio.h>
-#include <locale.h>
 #include <math.h>
-#define PII 3.14
+#define PI 3.14
 
 int main()
 {
-	setlocale(LC_ALL, "Turkish");
 	float r, alan;
 	
-	printf("Çemberin yarýçapýný giriniz: ");
+	printf("Çemberin yarýçapýný girinizz: ");
 	scanf_s("%f", &r);
 
-	alan = PII * pow(r, 2);
+	alan = PI * pow(r, 2);
 	printf("Çemberin alaný = %f", alan);
 }
 */
