@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Programlamaya Giriş\aritmetiksel-atama-operatorleri.cpp" />
     <ClCompile Include="Programlamaya Giriş\artirma-azaltma.cpp" />
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp" />
     <ClCompile Include="Programlamaya Giriş\c-veri-girisi.c" />
