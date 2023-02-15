@@ -72,5 +72,8 @@
     <ClCompile Include="Programlamaya Giriş\ornek.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\artirma-azaltma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
