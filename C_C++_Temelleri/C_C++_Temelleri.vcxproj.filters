@@ -81,5 +81,8 @@
     <ClCompile Include="Programlamaya Giriş\karsilastirma-operatorleri.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\mantiksal-operatorler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

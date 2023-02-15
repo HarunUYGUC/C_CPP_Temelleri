@@ -142,6 +142,7 @@
     <ClCompile Include="Programlamaya Giriş\ilk-c-program.c" />
     <ClCompile Include="Programlamaya Giriş\ilk-cpp-program.cpp" />
     <ClCompile Include="Programlamaya Giriş\karsilastirma-operatorleri.cpp" />
+    <ClCompile Include="Programlamaya Giriş\mantiksal-operatorler.cpp" />
     <ClCompile Include="Programlamaya Giriş\operatorler.cpp" />
     <ClCompile Include="Programlamaya Giriş\ornek.c" />
     <ClCompile Include="Programlamaya Giriş\ornek.cpp" />
