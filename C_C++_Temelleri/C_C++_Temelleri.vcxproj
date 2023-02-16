@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Koşul İfadeleri\if-else.cpp" />
     <ClCompile Include="Programlamaya Giriş\aritmetiksel-atama-operatorleri.cpp" />
     <ClCompile Include="Programlamaya Giriş\artirma-azaltma.cpp" />
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp" />
@@ -138,7 +139,6 @@
     <ClCompile Include="Programlamaya Giriş\degiskenler-3.cpp" />
     <ClCompile Include="Programlamaya Giriş\degiskenler.c" />
     <ClCompile Include="Programlamaya Giriş\degiskenlerr.cpp" />
-    <ClCompile Include="Koşul İfadeleri\deneme.c" />
     <ClCompile Include="Programlamaya Giriş\ilk-c-program.c" />
     <ClCompile Include="Programlamaya Giriş\ilk-cpp-program.cpp" />
     <ClCompile Include="Programlamaya Giriş\karsilastirma-operatorleri.cpp" />

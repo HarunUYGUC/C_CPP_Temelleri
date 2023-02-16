@@ -48,9 +48,6 @@
     <ClCompile Include="Programlamaya Giriş\ilk-c-program.c">
       <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
-    <ClCompile Include="Koşul İfadeleri\deneme.c">
-      <Filter>Source Files\Koşullu İfadeler</Filter>
-    </ClCompile>
     <ClCompile Include="Programlamaya Giriş\c-veri-girisi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -82,6 +79,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Programlamaya Giriş\mantiksal-operatorler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Koşul İfadeleri\if-else.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
