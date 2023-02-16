@@ -84,5 +84,8 @@
     <ClCompile Include="Koşul İfadeleri\if-else.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Koşul İfadeleri\vize-final-ortalama.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
