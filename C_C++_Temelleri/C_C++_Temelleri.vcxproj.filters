@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Koşullu İfadeler">
       <UniqueIdentifier>{30b5d9a9-1908-4ea5-a94d-6afa7566ce8d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Döngüler">
+      <UniqueIdentifier>{b9ce7310-2cc1-4e9e-bd46-849abaac250b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp">
@@ -48,56 +51,56 @@
     <ClCompile Include="Programlamaya Giriş\ilk-c-program.c">
       <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\c-veri-girisi.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\cpp-veri-girisi.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\sabitler.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\operatorler.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\ornek.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\ornek.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\artirma-azaltma.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\aritmetiksel-atama-operatorleri.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\karsilastirma-operatorleri.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Programlamaya Giriş\mantiksal-operatorler.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Koşul İfadeleri\if-else.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Koşul İfadeleri\vize-final-ortalama.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Koşullu İfadeler</Filter>
     </ClCompile>
     <ClCompile Include="Koşul İfadeleri\switch-case.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Koşullu İfadeler</Filter>
     </ClCompile>
     <ClCompile Include="Koşul İfadeleri\switch-case-2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Koşullu İfadeler</Filter>
+    </ClCompile>
+    <ClCompile Include="Koşul İfadeleri\vize-final-ortalama.cpp">
+      <Filter>Source Files\Koşullu İfadeler</Filter>
     </ClCompile>
     <ClCompile Include="Döngüler\for-dongusu.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Döngüler</Filter>
     </ClCompile>
     <ClCompile Include="Döngüler\for-ornekleri.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Döngüler</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\aritmetiksel-atama-operatorleri.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\artirma-azaltma.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\cpp-veri-girisi.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\c-veri-girisi.c">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\karsilastirma-operatorleri.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\mantiksal-operatorler.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\operatorler.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\ornek.c">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\ornek.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\sabitler.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
+    </ClCompile>
+    <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp">
+      <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
