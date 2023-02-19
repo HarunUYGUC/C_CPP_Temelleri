@@ -102,5 +102,8 @@
     <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp">
       <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
+    <ClCompile Include="Döngüler\fibonacci-sayi-dizisi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
