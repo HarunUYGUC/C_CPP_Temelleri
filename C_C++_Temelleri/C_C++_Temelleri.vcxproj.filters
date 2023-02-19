@@ -93,5 +93,11 @@
     <ClCompile Include="Koşul İfadeleri\switch-case-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Döngüler\for-dongusu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Döngüler\for-ornekleri.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

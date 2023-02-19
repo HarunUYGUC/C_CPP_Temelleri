@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Döngüler\for-dongusu.cpp" />
+    <ClCompile Include="Döngüler\for-ornekleri.cpp" />
     <ClCompile Include="Koşul İfadeleri\if-else.cpp" />
     <ClCompile Include="Koşul İfadeleri\switch-case-2.cpp" />
     <ClCompile Include="Koşul İfadeleri\switch-case.cpp" />
