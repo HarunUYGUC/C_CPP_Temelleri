@@ -105,5 +105,8 @@
     <ClCompile Include="Döngüler\fibonacci-sayi-dizisi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Döngüler\while-dongusu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
