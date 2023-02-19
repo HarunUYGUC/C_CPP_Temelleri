@@ -130,6 +130,7 @@
     <ClCompile Include="Döngüler\fibonacci-sayi-dizisi.cpp" />
     <ClCompile Include="Döngüler\for-dongusu.cpp" />
     <ClCompile Include="Döngüler\for-ornekleri.cpp" />
+    <ClCompile Include="Döngüler\sayi-tahmin-oyunu.cpp" />
     <ClCompile Include="Döngüler\while-dongusu.cpp" />
     <ClCompile Include="Koşul İfadeleri\if-else.cpp" />
     <ClCompile Include="Koşul İfadeleri\switch-case-2.cpp" />

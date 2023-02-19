@@ -108,5 +108,8 @@
     <ClCompile Include="Döngüler\while-dongusu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Döngüler\sayi-tahmin-oyunu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
