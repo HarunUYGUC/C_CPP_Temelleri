@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Döngüler\asal-carpan-bulma.cpp" />
+    <ClCompile Include="Döngüler\asal-sayi-kontrolu.cpp" />
     <ClCompile Include="Döngüler\cift-sayilarin-toplami.cpp" />
     <ClCompile Include="Döngüler\fibonacci-sayi-dizisi.cpp" />
     <ClCompile Include="Döngüler\for-dongusu.cpp" />

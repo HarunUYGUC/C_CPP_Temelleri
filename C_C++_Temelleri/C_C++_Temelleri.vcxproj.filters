@@ -120,5 +120,8 @@
     <ClCompile Include="Döngüler\cift-sayilarin-toplami.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Döngüler\asal-sayi-kontrolu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
