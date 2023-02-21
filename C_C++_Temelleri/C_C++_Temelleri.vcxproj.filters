@@ -117,5 +117,8 @@
     <ClCompile Include="Döngüler\mukemmel-sayi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Döngüler\cift-sayilarin-toplami.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
