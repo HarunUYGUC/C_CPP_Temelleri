@@ -102,32 +102,32 @@
     <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp">
       <Filter>Source Files\Programlamaya Giriş</Filter>
     </ClCompile>
-    <ClCompile Include="Döngüler\fibonacci-sayi-dizisi.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Döngüler\while-dongusu.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Döngüler\sayi-tahmin-oyunu.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Döngüler\asal-carpan-bulma.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Döngüler\mukemmel-sayi.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Döngüler\cift-sayilarin-toplami.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Döngüler</Filter>
     </ClCompile>
     <ClCompile Include="Döngüler\asal-sayi-kontrolu.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Döngüler</Filter>
     </ClCompile>
-    <ClCompile Include="Döngüler\n-elemanli-seri.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Döngüler\cift-sayilarin-toplami.cpp">
+      <Filter>Source Files\Döngüler</Filter>
+    </ClCompile>
+    <ClCompile Include="Döngüler\fibonacci-sayi-dizisi.cpp">
+      <Filter>Source Files\Döngüler</Filter>
     </ClCompile>
     <ClCompile Include="Döngüler\istenen-sayida-asal-sayi.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Döngüler</Filter>
+    </ClCompile>
+    <ClCompile Include="Döngüler\mukemmel-sayi.cpp">
+      <Filter>Source Files\Döngüler</Filter>
+    </ClCompile>
+    <ClCompile Include="Döngüler\n-elemanli-seri.cpp">
+      <Filter>Source Files\Döngüler</Filter>
+    </ClCompile>
+    <ClCompile Include="Döngüler\sayi-tahmin-oyunu.cpp">
+      <Filter>Source Files\Döngüler</Filter>
+    </ClCompile>
+    <ClCompile Include="Döngüler\while-dongusu.cpp">
+      <Filter>Source Files\Döngüler</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
