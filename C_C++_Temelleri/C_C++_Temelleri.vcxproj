@@ -133,6 +133,7 @@
     <ClCompile Include="Döngüler\fibonacci-sayi-dizisi.cpp" />
     <ClCompile Include="Döngüler\for-dongusu.cpp" />
     <ClCompile Include="Döngüler\for-ornekleri.cpp" />
+    <ClCompile Include="Döngüler\istenen-sayida-asal-sayi.cpp" />
     <ClCompile Include="Döngüler\mukemmel-sayi.cpp" />
     <ClCompile Include="Döngüler\n-elemanli-seri.cpp" />
     <ClCompile Include="Döngüler\sayi-tahmin-oyunu.cpp" />
