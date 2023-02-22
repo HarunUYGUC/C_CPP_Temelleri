@@ -134,6 +134,7 @@
     <ClCompile Include="Döngüler\for-dongusu.cpp" />
     <ClCompile Include="Döngüler\for-ornekleri.cpp" />
     <ClCompile Include="Döngüler\mukemmel-sayi.cpp" />
+    <ClCompile Include="Döngüler\n-elemanli-seri.cpp" />
     <ClCompile Include="Döngüler\sayi-tahmin-oyunu.cpp" />
     <ClCompile Include="Döngüler\while-dongusu.cpp" />
     <ClCompile Include="Koşul İfadeleri\if-else.cpp" />
