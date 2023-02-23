@@ -139,6 +139,7 @@
     <ClCompile Include="Döngüler\sayi-tahmin-oyunu.cpp" />
     <ClCompile Include="Döngüler\while-dongusu.cpp" />
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-2.cpp" />
+    <ClCompile Include="Fonksiyonlar\fonksiyonlar-3.cpp" />
     <ClCompile Include="Fonksiyonlar\fonksiyonlar.cpp" />
     <ClCompile Include="Koşul İfadeleri\if-else.cpp" />
     <ClCompile Include="Koşul İfadeleri\switch-case-2.cpp" />
