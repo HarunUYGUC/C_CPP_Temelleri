@@ -22,6 +22,9 @@
     <Filter Include="Source Files\Döngüler">
       <UniqueIdentifier>{b9ce7310-2cc1-4e9e-bd46-849abaac250b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Fonksiyonlar">
+      <UniqueIdentifier>{16ab91a8-906c-42d8-8f09-ae105e3f07ea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp">
@@ -130,13 +133,13 @@
       <Filter>Source Files\Döngüler</Filter>
     </ClCompile>
     <ClCompile Include="Fonksiyonlar\fonksiyonlar.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Fonksiyonlar</Filter>
     </ClCompile>
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Fonksiyonlar</Filter>
     </ClCompile>
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-3.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Fonksiyonlar</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
