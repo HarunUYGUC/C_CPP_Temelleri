@@ -129,5 +129,8 @@
     <ClCompile Include="Döngüler\while-dongusu.cpp">
       <Filter>Source Files\Döngüler</Filter>
     </ClCompile>
+    <ClCompile Include="Fonksiyonlar\fonksiyonlar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
