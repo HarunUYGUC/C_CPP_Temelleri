@@ -43,6 +43,6 @@ int main()
 
 void mesaj()
 {
-	cout << "Fonksiyonunuz çalıştı.";
+	cout << "Fonksiyonunuz çalıştı!";
 }
 */
