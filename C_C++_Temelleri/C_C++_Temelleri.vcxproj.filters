@@ -141,5 +141,8 @@
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-3.cpp">
       <Filter>Source Files\Fonksiyonlar</Filter>
     </ClCompile>
+    <ClCompile Include="Fonksiyonlar\ornek-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
