@@ -147,5 +147,8 @@
     <ClCompile Include="Fonksiyonlar\ornek-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Fonksiyonlar\asiri-yuklenme.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
