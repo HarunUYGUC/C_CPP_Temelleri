@@ -19,10 +19,9 @@ int main(int argc, char *argv[])
 
 /*
 #include <iostream>
-#include <stdlib.h>
 using namespace std;
 
-int main(int argc, char* argv[])
+int main(int argc, char *argv[])
 {
 	setlocale(LC_ALL, "Turkish");
 
@@ -34,10 +33,9 @@ int main(int argc, char* argv[])
 
 /*
 #include <iostream>
-#include <stdlib.h>
 using namespace std;
 
-int main(int argc, char* argv[])
+int main(int argc, char *argv[])
 {
 	setlocale(LC_ALL, "Turkish");
 
