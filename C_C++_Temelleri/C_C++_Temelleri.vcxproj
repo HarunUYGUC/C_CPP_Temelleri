@@ -142,6 +142,7 @@
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-2.cpp" />
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-3.cpp" />
     <ClCompile Include="Fonksiyonlar\fonksiyonlar.cpp" />
+    <ClCompile Include="Fonksiyonlar\main-parametre.cpp" />
     <ClCompile Include="Fonksiyonlar\ornek-1.cpp" />
     <ClCompile Include="Fonksiyonlar\ornek-2.cpp" />
     <ClCompile Include="Koşul İfadeleri\if-else.cpp" />

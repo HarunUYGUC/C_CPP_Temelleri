@@ -150,5 +150,8 @@
     <ClCompile Include="Fonksiyonlar\asiri-yuklenme.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Fonksiyonlar\main-parametre.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
