@@ -153,5 +153,8 @@
     <ClCompile Include="Fonksiyonlar\main-parametre.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Fonksiyonlar\menu-olusturma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
