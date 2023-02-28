@@ -141,26 +141,26 @@
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-3.cpp">
       <Filter>Source Files\Fonksiyonlar</Filter>
     </ClCompile>
-    <ClCompile Include="Fonksiyonlar\ornek-1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Fonksiyonlar\ornek-2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Fonksiyonlar\asiri-yuklenme.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Fonksiyonlar\main-parametre.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Fonksiyonlar\menu-olusturma.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Fonksiyonlar\matematiksel-fonksiyonlar.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Fonksiyonlar</Filter>
     </ClCompile>
     <ClCompile Include="Fonksiyonlar\etki-alani.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Fonksiyonlar</Filter>
+    </ClCompile>
+    <ClCompile Include="Fonksiyonlar\main-parametre.cpp">
+      <Filter>Source Files\Fonksiyonlar</Filter>
+    </ClCompile>
+    <ClCompile Include="Fonksiyonlar\matematiksel-fonksiyonlar.cpp">
+      <Filter>Source Files\Fonksiyonlar</Filter>
+    </ClCompile>
+    <ClCompile Include="Fonksiyonlar\menu-olusturma.cpp">
+      <Filter>Source Files\Fonksiyonlar</Filter>
+    </ClCompile>
+    <ClCompile Include="Fonksiyonlar\ornek-1.cpp">
+      <Filter>Source Files\Fonksiyonlar</Filter>
+    </ClCompile>
+    <ClCompile Include="Fonksiyonlar\ornek-2.cpp">
+      <Filter>Source Files\Fonksiyonlar</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
