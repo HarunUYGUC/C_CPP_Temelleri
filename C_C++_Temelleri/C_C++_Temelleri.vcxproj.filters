@@ -159,5 +159,8 @@
     <ClCompile Include="Fonksiyonlar\matematiksel-fonksiyonlar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Fonksiyonlar\etki-alani.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -139,6 +139,7 @@
     <ClCompile Include="Döngüler\sayi-tahmin-oyunu.cpp" />
     <ClCompile Include="Döngüler\while-dongusu.cpp" />
     <ClCompile Include="Fonksiyonlar\asiri-yuklenme.cpp" />
+    <ClCompile Include="Fonksiyonlar\etki-alani.cpp" />
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-2.cpp" />
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-3.cpp" />
     <ClCompile Include="Fonksiyonlar\fonksiyonlar.cpp" />
