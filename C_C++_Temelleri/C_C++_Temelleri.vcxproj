@@ -143,6 +143,7 @@
     <ClCompile Include="Fonksiyonlar\fonksiyonlar-3.cpp" />
     <ClCompile Include="Fonksiyonlar\fonksiyonlar.cpp" />
     <ClCompile Include="Fonksiyonlar\main-parametre.cpp" />
+    <ClCompile Include="Fonksiyonlar\matematiksel-fonksiyonlar.cpp" />
     <ClCompile Include="Fonksiyonlar\menu-olusturma.cpp" />
     <ClCompile Include="Fonksiyonlar\ornek-1.cpp" />
     <ClCompile Include="Fonksiyonlar\ornek-2.cpp" />
