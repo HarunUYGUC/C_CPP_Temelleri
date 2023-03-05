@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Diziler\char-dizisi.c" />
     <ClCompile Include="Diziler\diziler-for.cpp" />
     <ClCompile Include="Diziler\diziler.cpp" />
     <ClCompile Include="Döngüler\asal-carpan-bulma.cpp" />

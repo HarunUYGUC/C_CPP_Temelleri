@@ -168,5 +168,8 @@
     <ClCompile Include="Diziler\diziler-for.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Diziler\char-dizisi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
