@@ -174,5 +174,8 @@
     <ClCompile Include="Diziler\char-dizisi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Diziler\dinamik-dizi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
