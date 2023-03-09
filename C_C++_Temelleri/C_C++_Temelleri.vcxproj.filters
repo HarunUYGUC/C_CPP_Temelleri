@@ -183,7 +183,7 @@
     <ClCompile Include="Diziler\dizi-kopyala.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Diziler\bubble-sort.cpp.cpp">
+    <ClCompile Include="Diziler\bubble-sort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

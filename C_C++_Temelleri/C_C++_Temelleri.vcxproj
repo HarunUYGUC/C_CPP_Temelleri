@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Diziler\bubble-sort.cpp.cpp" />
+    <ClCompile Include="Diziler\bubble-sort.cpp" />
     <ClCompile Include="Diziler\char-dizisi.cpp" />
     <ClCompile Include="Diziler\char-dizisi.c" />
     <ClCompile Include="Diziler\dinamik-dizi.cpp" />
