@@ -14,7 +14,7 @@ int toplam(int sayi[], int boyut)
 	return sonuc;
 }
 
-int maint()
+int main()
 {
 	setlocale(LC_ALL, "Turkish");
 	int sayilar[] = { 55, 25, 96, 72, 78, 28 };
