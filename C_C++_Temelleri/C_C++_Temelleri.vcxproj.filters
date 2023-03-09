@@ -180,5 +180,8 @@
     <ClCompile Include="Diziler\fonk-param-dizi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Diziler\dizi-kopyala.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
