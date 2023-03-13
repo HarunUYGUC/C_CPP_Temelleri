@@ -135,6 +135,7 @@
     <ClCompile Include="Diziler\diziler-for.cpp" />
     <ClCompile Include="Diziler\diziler.cpp" />
     <ClCompile Include="Diziler\fonk-param-dizi.cpp" />
+    <ClCompile Include="Diziler\iki-boyutlu-dizi-2.cpp" />
     <ClCompile Include="Diziler\iki-boyutlu-dizi.cpp" />
     <ClCompile Include="Diziler\selection-sort.cpp" />
     <ClCompile Include="Döngüler\asal-carpan-bulma.cpp" />
