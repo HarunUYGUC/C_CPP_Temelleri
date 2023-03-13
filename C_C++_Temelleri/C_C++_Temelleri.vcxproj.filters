@@ -195,5 +195,8 @@
     <ClCompile Include="Diziler\iki-boyutlu-dizi-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Diziler\matris-carpimi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
