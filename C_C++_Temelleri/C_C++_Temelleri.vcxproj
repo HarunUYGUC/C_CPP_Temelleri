@@ -138,6 +138,7 @@
     <ClCompile Include="Diziler\iki-boyutlu-dizi-2.cpp" />
     <ClCompile Include="Diziler\iki-boyutlu-dizi.cpp" />
     <ClCompile Include="Diziler\matris-carpimi.cpp" />
+    <ClCompile Include="Diziler\matrisin-devrigi.cpp" />
     <ClCompile Include="Diziler\selection-sort.cpp" />
     <ClCompile Include="Döngüler\asal-carpan-bulma.cpp" />
     <ClCompile Include="Döngüler\asal-sayi-kontrolu.cpp" />

@@ -198,5 +198,8 @@
     <ClCompile Include="Diziler\matris-carpimi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Diziler\matrisin-devrigi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
