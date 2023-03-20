@@ -204,5 +204,8 @@
     <ClCompile Include="Diziler\selection-sort.cpp">
       <Filter>Source Files\Diziler</Filter>
     </ClCompile>
+    <ClCompile Include="Pointers (İşaretçiler)\pointers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
