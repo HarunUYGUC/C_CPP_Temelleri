@@ -210,5 +210,8 @@
     <ClCompile Include="Pointers (İşaretçiler)\pointers-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pointers %28İşaretçiler%29\char-pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

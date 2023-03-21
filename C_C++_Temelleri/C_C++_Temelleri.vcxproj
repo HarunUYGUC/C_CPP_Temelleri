@@ -165,6 +165,7 @@
     <ClCompile Include="Koşul İfadeleri\switch-case-2.cpp" />
     <ClCompile Include="Koşul İfadeleri\switch-case.cpp" />
     <ClCompile Include="Koşul İfadeleri\vize-final-ortalama.cpp" />
+    <ClCompile Include="Pointers %28İşaretçiler%29\char-pointer.c" />
     <ClCompile Include="Pointers (İşaretçiler)\pointers-2.cpp" />
     <ClCompile Include="Pointers (İşaretçiler)\pointers.cpp" />
     <ClCompile Include="Programlamaya Giriş\aritmetiksel-atama-operatorleri.cpp" />
