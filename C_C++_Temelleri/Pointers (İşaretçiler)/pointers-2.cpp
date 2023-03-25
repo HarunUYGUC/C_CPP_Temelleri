@@ -28,8 +28,8 @@ int main()
 
 	spt = sayilar;
 
-	//for (int i = 0; i < 9; i++)
-	//	cout << *(spt += 1) << endl;
+	//for (int i = 0; i < 10; i++)
+	//	cout << *(spt + i) << endl;
 
 	//for (int i = 0; i < 10; i++)
 	//	cout << spt[i] << endl;
