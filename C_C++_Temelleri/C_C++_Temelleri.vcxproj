@@ -170,6 +170,7 @@
     <ClCompile Include="Pointers %28İşaretçiler%29\pointer-fonksiyonu.c" />
     <ClCompile Include="Pointers (İşaretçiler)\pointer-parametre.cpp" />
     <ClCompile Include="Pointers (İşaretçiler)\pointers-2.cpp" />
+    <ClCompile Include="Pointers (İşaretçiler)\pointers.c" />
     <ClCompile Include="Pointers (İşaretçiler)\pointers.cpp" />
     <ClCompile Include="Programlamaya Giriş\aritmetiksel-atama-operatorleri.cpp" />
     <ClCompile Include="Programlamaya Giriş\artirma-azaltma.cpp" />

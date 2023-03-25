@@ -222,5 +222,8 @@
     <ClCompile Include="Pointers %28İşaretçiler%29\pointer-fonksiyonu.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pointers (İşaretçiler)\pointers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
