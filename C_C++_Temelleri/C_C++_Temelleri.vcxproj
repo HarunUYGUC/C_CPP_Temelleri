@@ -166,7 +166,7 @@
     <ClCompile Include="Koşul İfadeleri\switch-case.cpp" />
     <ClCompile Include="Koşul İfadeleri\vize-final-ortalama.cpp" />
     <ClCompile Include="Pointers %28İşaretçiler%29\char-pointer.c" />
-    <ClCompile Include="Pointers %28İşaretçiler%29\pointer-parametre-2.cpp" />
+    <ClCompile Include="Pointers %28İşaretçiler%29\pointer-parametre-2.c" />
     <ClCompile Include="Pointers %28İşaretçiler%29\pointer-fonksiyonu.c" />
     <ClCompile Include="Pointers (İşaretçiler)\pointer-parametre.cpp" />
     <ClCompile Include="Pointers (İşaretçiler)\pointers-2.cpp" />

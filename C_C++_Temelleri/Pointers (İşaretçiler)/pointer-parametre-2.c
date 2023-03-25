@@ -1,6 +1,5 @@
 /*
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int topla(int* pt, int boyut)
 {
@@ -17,10 +16,9 @@ int topla(int* pt, int boyut)
 
 int main()
 {
-	setlocale(LC_ALL, "Turkish");
 	int sayilar[] = { 15, 25, 63, 89, 24 };
 	
-	cout << "Dizideki sayýlarýn toplamý: " << topla(sayilar, 5);
+	printf("Dizideki sayýlarýn toplamý: %d", topla(sayilar, 5));
 
 	return 0;
 }
