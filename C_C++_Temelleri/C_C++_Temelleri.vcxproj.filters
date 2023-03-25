@@ -216,5 +216,8 @@
     <ClCompile Include="Pointers (İşaretçiler)\pointer-parametre.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pointers %28İşaretçiler%29\pointer-parametre-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
