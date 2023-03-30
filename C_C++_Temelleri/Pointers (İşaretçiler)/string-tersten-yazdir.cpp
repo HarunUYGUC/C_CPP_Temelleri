@@ -19,9 +19,10 @@ void tersYaz(char* cp)
 int main()
 {
 	setlocale(LC_ALL, "Turkish");
+	char ad[] = "Biliþim";
 	char* metin;
 
-	metin = "Biliþim Dünyasý C ve C++ Dersleri";
+	metin = ad;
 	tersYaz(metin);
 	cout << tersptr;
 
