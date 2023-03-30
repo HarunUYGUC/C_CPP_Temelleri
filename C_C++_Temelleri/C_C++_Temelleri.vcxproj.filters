@@ -28,6 +28,9 @@
     <Filter Include="Source Files\Diziler">
       <UniqueIdentifier>{4c3dd148-7c28-4ce0-b861-3031925e3018}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Pointers %28İşaretçiler%29">
+      <UniqueIdentifier>{bcf34af2-9c35-4853-a67c-075fe94fb98c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp">
@@ -204,32 +207,32 @@
     <ClCompile Include="Diziler\selection-sort.cpp">
       <Filter>Source Files\Diziler</Filter>
     </ClCompile>
-    <ClCompile Include="Pointers (İşaretçiler)\pointers.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Pointers (İşaretçiler)\pointers-2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Pointers %28İşaretçiler%29\char-pointer.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Pointers (İşaretçiler)\pointer-parametre.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Pointers %28İşaretçiler%29\pointer-parametre-2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Pointers %28İşaretçiler%29\pointer-fonksiyonu.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Pointers (İşaretçiler)\pointers.c">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
     </ClCompile>
     <ClCompile Include="Pointers (İşaretçiler)\dinamik-bellek-kullanimi.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointers %28İşaretçiler%29\pointer-fonksiyonu.c">
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointers (İşaretçiler)\pointer-parametre.cpp">
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointers %28İşaretçiler%29\pointer-parametre-2.c">
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointers (İşaretçiler)\pointers.c">
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointers (İşaretçiler)\pointers.cpp">
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointers (İşaretçiler)\pointers-2.cpp">
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
     </ClCompile>
     <ClCompile Include="Pointers (İşaretçiler)\string-tersten-yazdir.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
