@@ -228,5 +228,8 @@
     <ClCompile Include="Pointers (İşaretçiler)\dinamik-bellek-kullanimi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pointers (İşaretçiler)\string-tersten-yazdir.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

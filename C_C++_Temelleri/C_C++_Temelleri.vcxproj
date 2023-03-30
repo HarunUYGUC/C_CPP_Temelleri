@@ -173,6 +173,7 @@
     <ClCompile Include="Pointers (İşaretçiler)\pointers-2.cpp" />
     <ClCompile Include="Pointers (İşaretçiler)\pointers.c" />
     <ClCompile Include="Pointers (İşaretçiler)\pointers.cpp" />
+    <ClCompile Include="Pointers (İşaretçiler)\string-tersten-yazdir.cpp" />
     <ClCompile Include="Programlamaya Giriş\aritmetiksel-atama-operatorleri.cpp" />
     <ClCompile Include="Programlamaya Giriş\artirma-azaltma.cpp" />
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp" />
