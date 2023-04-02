@@ -237,5 +237,8 @@
     <ClCompile Include="Vektörler\vektorler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Vektörler\vektorler-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
