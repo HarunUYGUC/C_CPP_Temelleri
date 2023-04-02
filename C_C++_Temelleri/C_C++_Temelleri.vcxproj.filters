@@ -234,5 +234,8 @@
     <ClCompile Include="Pointers (İşaretçiler)\string-tersten-yazdir.cpp">
       <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
     </ClCompile>
+    <ClCompile Include="Vektörler\vektorler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
