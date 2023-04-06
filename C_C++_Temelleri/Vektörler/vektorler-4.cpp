@@ -38,6 +38,7 @@ int main()
 }
 */
 
+/*
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -55,6 +56,9 @@ int main()
 	vek1.insert(vek1.end(), 25);
 	vek1.insert(vek1.end() - 2, 45);
 
+	vek1.erase(vek1.begin());
+	vek1.erase(vek1.begin() + 1);
+
 	for (auto icerik : vek1)
 	{
 		cout << icerik << endl;
@@ -62,3 +66,38 @@ int main()
 
 	return 0;
 }
+*/
+
+/*
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main()
+{
+	setlocale(LC_ALL, "Turkish");
+	vector <int> vek2 = { 1, 2, 3, 4, 5, 6, 7 };
+	vector <int>::iterator it2;
+
+	for (it2 = vek2.begin(); it2 != vek2.end(); it2++)
+	{
+		cout << *it2 << endl;
+	}
+
+	cout << "*********" << endl;
+
+	for (int i = 0; i < vek2.size(); i++)
+	{
+		cout << vek2[i] << endl;
+	}
+
+	cout << "*********" << endl;
+
+	for (auto icerik : vek2)
+	{
+		cout << icerik << endl;
+	}
+
+	return 0;
+}
+*/
