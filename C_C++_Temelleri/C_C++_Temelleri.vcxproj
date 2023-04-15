@@ -194,6 +194,7 @@
     <ClCompile Include="Programlamaya Giriş\ornek.cpp" />
     <ClCompile Include="Programlamaya Giriş\sabitler.cpp" />
     <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp" />
+    <ClCompile Include="Vektörler\vektor-uygulamasi-2.cpp" />
     <ClCompile Include="Vektörler\vektor-uygulamasi.cpp" />
     <ClCompile Include="Vektörler\vektorler-2.cpp" />
     <ClCompile Include="Vektörler\vektorler-3.cpp" />

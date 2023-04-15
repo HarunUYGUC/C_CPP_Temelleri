@@ -252,5 +252,8 @@
     <ClCompile Include="Vektörler\vektor-uygulamasi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Vektörler\vektor-uygulamasi-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
