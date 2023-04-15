@@ -197,6 +197,7 @@
     <ClCompile Include="Vektörler\vektorler-2.cpp" />
     <ClCompile Include="Vektörler\vektorler-3.cpp" />
     <ClCompile Include="Vektörler\vektorler-4.cpp" />
+    <ClCompile Include="Vektörler\vektorler-5.cpp" />
     <ClCompile Include="Vektörler\vektorler.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
