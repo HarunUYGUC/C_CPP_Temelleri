@@ -31,6 +31,9 @@
     <Filter Include="Source Files\Pointers %28İşaretçiler%29">
       <UniqueIdentifier>{bcf34af2-9c35-4853-a67c-075fe94fb98c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Vektörler">
+      <UniqueIdentifier>{558cc208-6b51-416f-9e4f-9c9eb17ea3b7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp">
@@ -235,28 +238,28 @@
       <Filter>Source Files\Pointers %28İşaretçiler%29</Filter>
     </ClCompile>
     <ClCompile Include="Vektörler\vektorler.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
     <ClCompile Include="Vektörler\vektorler-2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
     <ClCompile Include="Vektörler\vektorler-3.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
     <ClCompile Include="Vektörler\vektorler-4.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
     <ClCompile Include="Vektörler\vektorler-5.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
     <ClCompile Include="Vektörler\vektor-uygulamasi.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
     <ClCompile Include="Vektörler\vektor-uygulamasi-2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
     <ClCompile Include="Vektörler\vektor-uygulamasi-3.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
