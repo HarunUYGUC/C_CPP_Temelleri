@@ -267,5 +267,8 @@
     <ClCompile Include="Structure (Veri Yapıları)\struct-dizi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Structure (Veri Yapıları)\struct-dizi-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
