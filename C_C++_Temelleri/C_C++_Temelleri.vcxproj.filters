@@ -34,6 +34,9 @@
     <Filter Include="Source Files\Vektörler">
       <UniqueIdentifier>{558cc208-6b51-416f-9e4f-9c9eb17ea3b7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Structure %28Veri Yapıları%29">
+      <UniqueIdentifier>{d4b85f10-ce19-436a-80f9-5a8aef517600}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp">
@@ -262,13 +265,13 @@
       <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
     <ClCompile Include="Structure (Veri Yapıları)\struct.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Structure %28Veri Yapıları%29</Filter>
     </ClCompile>
     <ClCompile Include="Structure (Veri Yapıları)\struct-dizi.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Structure %28Veri Yapıları%29</Filter>
     </ClCompile>
     <ClCompile Include="Structure (Veri Yapıları)\struct-dizi-2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Structure %28Veri Yapıları%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
