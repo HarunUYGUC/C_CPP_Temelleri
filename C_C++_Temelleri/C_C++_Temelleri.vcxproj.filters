@@ -261,5 +261,8 @@
     <ClCompile Include="Vektörler\vektor-uygulamasi-3.cpp">
       <Filter>Source Files\Vektörler</Filter>
     </ClCompile>
+    <ClCompile Include="Structure (Veri Yapıları)\struct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
