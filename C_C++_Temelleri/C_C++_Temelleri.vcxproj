@@ -194,6 +194,7 @@
     <ClCompile Include="Programlamaya Giriş\ornek.cpp" />
     <ClCompile Include="Programlamaya Giriş\sabitler.cpp" />
     <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp" />
+    <ClCompile Include="String Standart Fonksiyonlar\string-donusum-fonk.cpp" />
     <ClCompile Include="Structure (Veri Yapıları)\struct-dizi-2.cpp" />
     <ClCompile Include="Structure (Veri Yapıları)\struct-dizi.cpp" />
     <ClCompile Include="Structure (Veri Yapıları)\struct.cpp" />

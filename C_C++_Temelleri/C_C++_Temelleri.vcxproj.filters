@@ -273,5 +273,8 @@
     <ClCompile Include="Structure (Veri Yapıları)\struct-dizi-2.cpp">
       <Filter>Source Files\Structure %28Veri Yapıları%29</Filter>
     </ClCompile>
+    <ClCompile Include="String Standart Fonksiyonlar\string-donusum-fonk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
