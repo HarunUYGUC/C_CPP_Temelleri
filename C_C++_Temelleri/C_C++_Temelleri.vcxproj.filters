@@ -279,5 +279,8 @@
     <ClCompile Include="String Standart Fonksiyonlar\string-isleme-fonk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="String Standart Fonksiyonlar\string-karsilastirma-fonk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
