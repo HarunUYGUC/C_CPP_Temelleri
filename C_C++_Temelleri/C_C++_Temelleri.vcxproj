@@ -194,6 +194,7 @@
     <ClCompile Include="Programlamaya Giriş\ornek.cpp" />
     <ClCompile Include="Programlamaya Giriş\sabitler.cpp" />
     <ClCompile Include="Programlamaya Giriş\tip-donusum.cpp" />
+    <ClCompile Include="String Standart Fonksiyonlar\string-arama-fonk.cpp" />
     <ClCompile Include="String Standart Fonksiyonlar\string-donusum-fonk.cpp" />
     <ClCompile Include="String Standart Fonksiyonlar\string-isleme-fonk.cpp" />
     <ClCompile Include="String Standart Fonksiyonlar\string-karsilastirma-fonk.cpp" />

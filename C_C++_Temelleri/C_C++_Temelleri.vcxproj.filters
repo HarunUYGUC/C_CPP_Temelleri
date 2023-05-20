@@ -282,5 +282,8 @@
     <ClCompile Include="String Standart Fonksiyonlar\string-karsilastirma-fonk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="String Standart Fonksiyonlar\string-arama-fonk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
