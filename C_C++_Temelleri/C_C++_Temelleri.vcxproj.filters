@@ -37,6 +37,9 @@
     <Filter Include="Source Files\Structure %28Veri Yapıları%29">
       <UniqueIdentifier>{d4b85f10-ce19-436a-80f9-5a8aef517600}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\String Standart Fonksiyonlar">
+      <UniqueIdentifier>{63f1e638-c389-48d7-a526-6a71c1c30750}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Programlamaya Giriş\c-cpp-program.cpp">
@@ -273,17 +276,17 @@
     <ClCompile Include="Structure (Veri Yapıları)\struct-dizi-2.cpp">
       <Filter>Source Files\Structure %28Veri Yapıları%29</Filter>
     </ClCompile>
+    <ClCompile Include="String Standart Fonksiyonlar\string-arama-fonk.cpp">
+      <Filter>Source Files\String Standart Fonksiyonlar</Filter>
+    </ClCompile>
     <ClCompile Include="String Standart Fonksiyonlar\string-donusum-fonk.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\String Standart Fonksiyonlar</Filter>
     </ClCompile>
     <ClCompile Include="String Standart Fonksiyonlar\string-isleme-fonk.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\String Standart Fonksiyonlar</Filter>
     </ClCompile>
     <ClCompile Include="String Standart Fonksiyonlar\string-karsilastirma-fonk.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="String Standart Fonksiyonlar\string-arama-fonk.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\String Standart Fonksiyonlar</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
