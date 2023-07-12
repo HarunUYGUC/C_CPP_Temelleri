@@ -13,7 +13,6 @@ Fonksiyonlarý 4 Baþlýk Altýnda Ýnceleyeceðiz:
 
 */
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -27,9 +26,9 @@ int main()
 	setlocale(LC_ALL, "Turkish");
 	mesaj();
 }
-*/
 
-/*
+
+
 #include <iostream>
 using namespace std;
 
@@ -45,4 +44,3 @@ void mesaj()
 {
 	cout << "Fonksiyonunuz çalýþtý!";
 }
-*/

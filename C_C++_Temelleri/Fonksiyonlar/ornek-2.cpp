@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 #define PI 3.14
@@ -24,4 +23,3 @@ int main()
 	cout << "Çemberin çevresi = " << cevre(r) << endl;
 	cout << "Çemberin alaný = " << alan(r);
 }
-*/

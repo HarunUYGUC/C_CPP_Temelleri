@@ -9,7 +9,6 @@ if'in içinde int a = 5 şeklinde bir tanımlama yapılırsa if'in içindeki cout << a
 -- Scope; kapsam, etki alanı demektir.
 */
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -26,4 +25,3 @@ int main()
 
 	cout << "Global Scope: " << a;
 }
-*/

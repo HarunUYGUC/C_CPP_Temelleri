@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -40,4 +39,3 @@ int main()
 	// sqrt() fonksiyonu karekök hesaplamak için kullanýlýr. square root, karekök demek.
 	cout << "sqrt(): " << sqrt(36) << endl;
 }
-*/

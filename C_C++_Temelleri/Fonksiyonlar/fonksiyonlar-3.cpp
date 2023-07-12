@@ -1,6 +1,5 @@
 // (5! + 7!) / (9! - 6!) iþlemini yapan programý yazýnýz.
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -25,4 +24,3 @@ int main()
 	
 	cout << "(5! + 7!) / (9! - 6!) iþlemininin sonucu = " << sonuc;
 }
-*/

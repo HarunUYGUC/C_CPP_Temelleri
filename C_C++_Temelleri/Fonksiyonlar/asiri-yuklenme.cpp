@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -20,9 +19,9 @@ int main()
 	cout << guncelle(a) << endl;
 	cout << guncelle(b);
 }
-*/
 
-/*
+
+
 #include <iostream>
 using namespace std;
 template <typename T>
@@ -40,4 +39,3 @@ int main()
 	cout << guncelle(a) << endl;
 	cout << guncelle(b);
 }
-*/

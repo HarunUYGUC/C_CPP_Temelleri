@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -49,4 +48,3 @@ int main()
 
 	cout << "En büyük sayý ile en küçük sayýnýn farký = " << enBuyuk(a, b, c) - enKucuk(a, b, c);
 }
-*/
