@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 
 int main()
@@ -9,9 +8,8 @@ int main()
 	
 	return 0;
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 int main()
@@ -22,9 +20,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 int main()
@@ -36,9 +33,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 int main()
@@ -54,10 +50,8 @@ int main()
 
 	return 0;
 }
-*/
 
 
-/*
 // Farklı farklı elemanları aynı dizide saklamak istiyorsak bu şekilde bir kullanım yapmalıyız.
 // char stringDizi[dizinin_eleman_sayısı][bir_elemanın_karakter_sayısı] = { "Ali", "Mehmet", "Veli" }
 
@@ -71,9 +65,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 int main()
@@ -84,9 +77,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 int main()
@@ -98,9 +90,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 int main()
@@ -118,4 +109,3 @@ int main()
 
 	return 0;
 }
-*/
