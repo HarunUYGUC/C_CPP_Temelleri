@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 //#include <cstdlib>
 //#include <cstring>
@@ -30,4 +29,3 @@ int main()
 
 	return 0;
 }
-*/

@@ -17,7 +17,6 @@ bellek alanlarý silinmediði halde bellekte belirtilen miktarda yeni alanlar açýl
 kullanýlýr yani dolar, donmalar meydana gelir.
 */
 
-/*
 #include <iostream>
 #include <cstdlib>
 using namespace std;
@@ -49,4 +48,3 @@ int main()
 
 	return 0;
 }
-*/

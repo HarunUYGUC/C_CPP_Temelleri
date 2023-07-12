@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 
 char* ara(char* p, char kr)
@@ -26,4 +25,3 @@ int main()
 
 	return 0;
 }
-*/

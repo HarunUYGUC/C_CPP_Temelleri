@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 
 int topla(int* pt, int boyut)
@@ -22,4 +21,3 @@ int main()
 
 	return 0;
 }
-*/
