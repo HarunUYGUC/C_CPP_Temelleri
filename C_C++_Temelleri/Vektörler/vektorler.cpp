@@ -1,4 +1,3 @@
-/*
 // Diziler ile dizinin boyutundan fazla eleman alamayacaðýmýz için bu program hatalý çalýþacaktýr.
 
 #include <iostream>
@@ -29,9 +28,8 @@ int main()
 
 	return 0;
 }
-*/
 
-/*
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -59,4 +57,3 @@ int main()
 
 	return 0;
 }
-*/

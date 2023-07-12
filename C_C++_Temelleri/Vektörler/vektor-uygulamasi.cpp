@@ -1,7 +1,6 @@
 // Bitiþiðindeki sað ve sol sayýlardan daha küçük olan sayýlarý yenivektor vektörüne aktaracaðýz.
 // 1. indisten baþlayarak sondan bir önceki indise kadar bu karþýlaþtýrmayý yapmalýyýz.
 
-/*
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -38,4 +37,3 @@ int main()
 
 	return 0;
 }
-*/
