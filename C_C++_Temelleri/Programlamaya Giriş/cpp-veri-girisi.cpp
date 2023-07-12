@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -32,4 +31,3 @@ int main()
 	cout << sayi3 << endl;
 	cout << &sayi1;
 }
-*/

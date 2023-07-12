@@ -7,7 +7,6 @@ Not (Deðil): ! => Ýþlemi tersine çevirir. Doðru ise yanlýþ, yanlýþ ise doðru yap
 
 */
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -18,9 +17,8 @@ int main()
 
 	cout << (final > 60 && ortalama > 60);
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -31,9 +29,8 @@ int main()
 
 	cout << (final > 60 && ortalama > 60);
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -43,4 +40,3 @@ int main()
 
 	cout << (!deger);
 }
-*/

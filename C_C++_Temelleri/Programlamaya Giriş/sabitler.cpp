@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 #define PI 3.14
@@ -13,9 +12,8 @@ int main()
 	alan = PI * r * r;
 	cout << "Çemberin alaný = " << alan;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -30,4 +28,3 @@ int main()
 	alan = PI * r * r;
 	cout << "Çemberin alaný = " << alan;
 }
-*/

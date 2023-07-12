@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 #include <locale.h>
 
@@ -19,9 +18,8 @@ int main()
 	printf("Dikdörtgenin çevresi = %f \n", cevre);
 	printf("Dikdörtgenin alaný = %f", alan);
 }
-*/
 
-/*
+
 #include <stdio.h>
 #include <math.h>
 #define PI 3.14
@@ -36,4 +34,3 @@ int main()
 	alan = PI * pow(r, 2);
 	printf("Çemberin alaný = %f", alan);
 }
-*/

@@ -8,7 +8,6 @@ Aritmetiksel atama operatörleri:
 
 */
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -25,4 +24,3 @@ int main()
 	a /= b;
 	cout << a;
 }
-*/

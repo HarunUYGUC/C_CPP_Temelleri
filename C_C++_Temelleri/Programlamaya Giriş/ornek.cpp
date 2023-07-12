@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -19,9 +18,8 @@ int main()
 	cout << "Dikdörtgenin çevresi = " << cevre << endl;
 	cout << "Dikdörtgenin alaný = " << alan;
 }
-*/
 
-/*
+
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -37,4 +35,3 @@ int main()
 	alan = PI * pow(r, 2);
 	cout << "Çemberin alaný = " << alan;
 }
-*/

@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 
 main()
@@ -8,9 +7,8 @@ main()
 	sayi2 = 20;
 	printf("%d", sayi1);
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 main()
@@ -20,9 +18,8 @@ main()
 	sayi2 = 20;
 	printf("%d ve %d", sayi1, sayi2);
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 main()
@@ -33,9 +30,8 @@ main()
 	printf("%d ve %d", sayi1, sayi2);
 	printf("Merhaba");
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 main()
@@ -46,9 +42,8 @@ main()
 	printf("%d ve %d \n", sayi1, sayi2); // n komutu önemli!!!
 	printf("Merhaba");
 }
-*/
 
-/*
+
 #include <stdio.h>
 
 main()
@@ -58,4 +53,3 @@ main()
 	printf("%d ve %d \n", sayi1, sayi2);
 	printf("Merhaba");
 }
-*/

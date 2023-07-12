@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -10,9 +9,8 @@ int main()
 	sayi1 = 15;
 	cout << sayi1;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -26,4 +24,3 @@ int main()
 	cout << sayi1 << endl;
 	cout << "Ýlk sayýnýz " << sayi1 << " ikinci sayýnýz " << sayi2 << " idir.";
 }
-*/

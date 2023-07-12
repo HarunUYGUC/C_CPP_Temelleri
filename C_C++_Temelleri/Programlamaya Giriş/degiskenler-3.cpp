@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -8,9 +7,8 @@ int main()
 	sonuc = 1 / 5;
 	cout << sonuc;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -20,9 +18,8 @@ int main()
 	sonuc = 1.0 / 5;
 	cout << sonuc;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -32,9 +29,8 @@ int main()
 	sonuc = 1.0 / 5;
 	cout << sonuc;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -44,9 +40,8 @@ int main()
 	sonuc = 1.0 / 5;
 	cout << sonuc;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -56,9 +51,8 @@ int main()
 	sonuc = 1.0 / 2.35;
 	cout << sonuc;
 }
-*/
 
-/*
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -69,9 +63,8 @@ int main()
 	sonuc = 1.0 / 2.35;
 	cout << setprecision(3) << sonuc;
 }
-*/
 
-/*
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -82,9 +75,8 @@ int main()
 	sonuc = 1.0 / 2;
 	cout << fixed << setprecision(3) << sonuc;
 }
-*/
 
-/*
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -100,9 +92,8 @@ int main()
 
 	cout << setprecision(10) << toplam;
 }
-*/
 
-/*
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -118,4 +109,3 @@ int main()
 
 	cout << setprecision(10) << toplam;
 }
-*/

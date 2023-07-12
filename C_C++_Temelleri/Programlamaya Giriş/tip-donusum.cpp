@@ -14,7 +14,6 @@ float ile double = double
 int ile double = double
 */
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -24,9 +23,8 @@ int main()
 	float b = 4;
 	cout << a / b;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -36,9 +34,8 @@ int main()
 	int b = 4;
 	cout << a / b;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -48,9 +45,8 @@ int main()
 	int b = 4;
 	cout << float(a) / b;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -60,9 +56,8 @@ int main()
 	float b = 2.5;
 	cout << a / b;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -72,4 +67,3 @@ int main()
 	float b = 2.5;
 	cout << a / int(b);
 }
-*/

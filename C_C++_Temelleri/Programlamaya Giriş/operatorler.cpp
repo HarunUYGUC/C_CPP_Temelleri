@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -29,4 +28,3 @@ int main()
 	cout << "Üs Alma = " << a << "^" << b << " = " << us << endl;
 	cout << "Karekök= " << karekok;
 }
-*/

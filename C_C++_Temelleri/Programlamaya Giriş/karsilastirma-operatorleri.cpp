@@ -14,7 +14,6 @@ Karþýlaþtýrma ifadesinin sonucu 1 ise karþýlaþtýrma ifadesinin sonucunun doðru o
 
 */
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -25,9 +24,8 @@ int main()
 
 	cout << (a < b);
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -38,4 +36,3 @@ int main()
 
 	cout << (a == b);
 }
-*/

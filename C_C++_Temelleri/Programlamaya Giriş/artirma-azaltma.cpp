@@ -8,7 +8,6 @@ degisken-- : Sonradan Azaltma
 
 */
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -22,9 +21,8 @@ int main()
 	a++;
 	cout << a;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -38,9 +36,8 @@ int main()
 	cout << c << endl;
 	cout << a;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -54,9 +51,8 @@ int main()
 	cout << c << endl;
 	cout << a;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -70,9 +66,8 @@ int main()
 	cout << c << endl;
 	cout << a;
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -87,4 +82,3 @@ int main()
 	cout << b << endl;
 	cout << c;
 }
-*/

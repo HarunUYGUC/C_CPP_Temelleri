@@ -1,4 +1,3 @@
-/*
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
@@ -31,4 +30,3 @@ main()
 	printf("%f\n", sayi2);
 	printf("%lf", sayi3);
 }
-*/
