@@ -14,48 +14,47 @@ strtol() => strtol(char *ptr, char **endPtr, sayitabani) string to long integer
 
 */
 
-/*
 #include <iostream>
 #include <cstdlib>
 using namespace std;
 
 int main()
 {
-	//char tarih[] = "1983";
-	//int tarih2;
+	char tarih[] = "1983";
+	int tarih2;
 
 	//tarih2 = atoi(tarih);
 	//tarih2 += 10;
 	//cout << tarih2 << endl;
 
 
-	//char tarih[] = "1983biliþim";
-	//int tarih2;
+	char tarih[] = "1983biliþim";
+	int tarih2;
 
 	//tarih2 = atoi(tarih);
 	//tarih2 += 10;
 	//cout << tarih2 << endl;
 	
 
-	//char tarih[] = "1983.25";
-	//float tarih2;
+	char tarih[] = "1983.25";
+	float tarih2;
 
 	//tarih2 = atof(tarih);
 	//tarih2 += 10;
 	//cout << tarih2 << endl;
 
 
-	//char tarih[] = "1983.25 biliþim";
-	//float tarih2;
+	char tarih[] = "1983.25 biliþim";
+	float tarih2;
 
 	//tarih2 = atof(tarih);
 	//tarih2 += 10;
 	//cout << tarih2 << endl;
 
 
-	//char tarih[] = "1983.25 biliþim";
-	//float tarih2;
-	//char* ptrMetin;
+	char tarih[] = "1983.25 biliþim";
+	float tarih2;
+	char* ptrMetin;
 
 	//tarih2 = strtod(tarih, &ptrMetin);
 	//tarih2 += 10;
@@ -63,18 +62,18 @@ int main()
 	//cout << ptrMetin;
 
 
-	//char tarih[] = "101983.25 biliþim";
-	//long int tarih2;
-	//char* ptrMetin;
+	char tarih[] = "101983.25 biliþim";
+	long int tarih2;
+	char* ptrMetin;
 
 	//tarih2 = strtol(tarih, &ptrMetin, 2);
 	//cout << tarih2 << endl;
 	//cout << ptrMetin;
 
 
-	//char tarih[] = "101983.25 biliþim";
-	//long int tarih2;
-	//char* ptrMetin;
+	char tarih[] = "101983.25 biliþim";
+	long int tarih2;
+	char* ptrMetin;
 
 	//tarih2 = strtol(tarih, &ptrMetin, 10);
 	//cout << tarih2 << endl;
@@ -82,4 +81,3 @@ int main()
 
 	return 0;
 }
-*/

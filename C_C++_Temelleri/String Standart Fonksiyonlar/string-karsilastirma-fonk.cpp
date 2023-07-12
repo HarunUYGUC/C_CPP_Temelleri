@@ -5,7 +5,6 @@ strncmp(s1, s2, n) => Ýki stringin ilk n karakterini karþýlaþtýrýr. Ýki ifade eþ
 
 */
 
-/*
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
@@ -48,4 +47,3 @@ int main()
 
 	return 0;
 }
-*/

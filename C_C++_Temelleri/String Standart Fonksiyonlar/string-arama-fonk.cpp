@@ -14,7 +14,6 @@ içinde bulunduðu ilk yerin indeksini hesaplar.
 
 */
 
-/*
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
@@ -23,8 +22,8 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, "Turkish");
-	//char str[] = "Bilisim Dunyasi Udemy Kursu";
-	//char* ptr;
+	char str[] = "Bilisim Dunyasi Udemy Kursu";
+	char* ptr;
 
 	//ptr = strchr(str, 'm');
 	//printf("%x \n", ptr);
@@ -43,12 +42,11 @@ int main()
 	//printf("%s", ptr);
 
 
-	//char str[] = "Bilisim Dunyasi Udemy Kursu";
-	//int konum;
+	char str[] = "Bilisim Dunyasi Udemy Kursu";
+	int konum;
 
 	//konum = strcspn(str, "Uum");
 	//printf("%d", konum);
 
 	return 0;
 }
-*/

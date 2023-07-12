@@ -21,14 +21,11 @@ strupr(s1) => s1 stringini büyük harfe dönüþtürür.
 
 */
 
-/*
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
 using namespace std;
-*/
 
-/*
 void string_kopyala(char kd1[], char kd2[])
 {
 	int i = 0;
@@ -41,14 +38,13 @@ void string_kopyala(char kd1[], char kd2[])
 
 	kd1[i] = '\0';
 }
-*/
 
-/*
+
 int main()
 {
 	setlocale(LC_ALL, "Turkish");
-	//char s1[] = "Biliþim Dünyasý";
-	//char s2[100];
+	char s1[] = "Biliþim Dünyasý";
+	char s2[100];
 
 	//strcpy_s(s2, s1);
 	//cout << s2;
@@ -93,4 +89,3 @@ int main()
 
 	return 0;
 }
-*/
