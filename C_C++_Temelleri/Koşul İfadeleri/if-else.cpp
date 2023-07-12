@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -23,9 +22,8 @@ int main()
 		cout << "Sayýnýz negatiftir.";
 	}
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -62,4 +60,3 @@ int main()
 		cout << "0-100 arasýnda bir puan girmelisiniz!";
 	}
 }
-*/

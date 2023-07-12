@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -28,9 +27,8 @@ int main()
 		cout << "Hatalý iþlem seçtiniz.";
 	}
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -83,7 +81,6 @@ int main()
 	}
 	}
 }
-*/
 
 
 // Üni. dersinden öðrendiðim kurallar...
@@ -96,7 +93,6 @@ ama çok kullanýþlý olacaðýný düþünmüyorum. Switch-case de ise duruma göre gayet 
 kodlar çalýþýr.
 */
 
-/*
 #include <stdio.h>
 
 int main() {
@@ -119,4 +115,3 @@ int main() {
 
 	return 0;
 }
-*/

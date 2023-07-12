@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -47,12 +46,10 @@ int main()
 		cout << "Harf notunuz FF";
 	}
 }
-*/
 
 
 // Aþaðýdaki switch - case kullanýmý Visual Studio'da hata verdiði için if - else þeklinde problemi çözdüm.
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -73,4 +70,3 @@ int main()
 	}
 	}
 }
-*/
