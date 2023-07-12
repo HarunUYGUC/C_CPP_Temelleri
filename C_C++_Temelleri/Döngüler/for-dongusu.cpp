@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -11,9 +10,8 @@ int main()
 		cout << sayac << endl;
 	}
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -26,9 +24,8 @@ int main()
 		cout << sayac << endl;
 	}
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -41,9 +38,8 @@ int main()
 		cout << sayac << endl;
 	}
 }
-*/
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -59,4 +55,3 @@ int main()
 	
 	cout << "1-10 arasý sayýlarýn toplamý = " << toplam;
 }
-*/

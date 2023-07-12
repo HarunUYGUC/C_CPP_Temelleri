@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 // #include <cstdlib>
 // #include <locale>
@@ -33,4 +32,3 @@ int main()
 		}	
 	}
 }
-*/

@@ -2,7 +2,6 @@
 // Diðer bir ifadeyle, bir mükemmel sayý, bütün pozitif tam bölenlerinin toplamýnýn yarýsýna eþittir.
 // Örnek: 28 sayýsýnýn pozitif tam bölenleri 1, 2, 4, 7 ve 14 idir. Toplamlarý 28 yapar.
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -44,7 +43,6 @@ int main()
 		cout << sayi << " sayýsý mükemmel sayý deðildir.";
 	}
 }
-*/
 
 // Önemli Not!!!: Ýlk defa böyle bir þey farkettim ya da öyle sanýyorum. :D :D Gerçekleþse de 
 // gerçekleþmese de deðiþkeni arttýrmak gerekiyorsa for döngüsü kullanmak daha mantýklý.

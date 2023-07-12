@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/*
 int main()
 {
 	setlocale(LC_ALL, "Turkish");
@@ -18,4 +17,3 @@ int main()
 
 	cout << "1 + 1/2 + 1/3 + ...... + 1/" << sayi << " = " << toplam;
 }
-*/

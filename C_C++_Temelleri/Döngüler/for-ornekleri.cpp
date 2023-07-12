@@ -1,6 +1,5 @@
 // Kullanýcýdan alýnan 10 sayýnýn toplamýný veren program.
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -19,11 +18,10 @@ int main()
 	
 	cout << "Girdiðiniz sayýlarýn toplamý = " << toplam;
 }
-*/
+
 
 // Kullanýcýdan alýnan sayýnýn faktöriyelini hesaplayan program.
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -42,4 +40,3 @@ int main()
 
 	cout << sayi << " sayýsýnýn faktöriyeli = " << faktoriyel;
 }
-*/

@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -25,4 +24,3 @@ int main()
 		cout << sayi << " asal sayýdýr";
 	}
 }
-*/

@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 using namespace std;
 
@@ -12,11 +11,10 @@ int main()
 		i++;
 	}
 }
-*/
+
 
 // 0 girilene kadarki sayýlarýn toplamýný bulan program.
 
-/*
 #include <iostream>
 using namespace std;
 
@@ -39,4 +37,3 @@ int main()
 
 	cout << "Sayýlarýn toplamý = " << toplam;
 }
-*/
